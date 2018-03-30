@@ -1,0 +1,65 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+#wrapper{
+	margin: 0px auto;
+	width:970px;
+	height:800px;
+}
+
+#details{
+	margin: 10px;
+	width: 300px;
+	height:300px;
+	display: inline-block;
+}
+
+label {
+    
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
+
+#first, #last{
+	float: right;
+	margin: 0px 0px 5px 10px;
+}
+#right{
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px;
+}
+
+textarea{
+
+	display: block;
+	width:300px;
+	height: 100px;
+}
+
+button{
+	text-align: center;
+	padding: 5px;
+	width: 100px;
+	margin-top: 15px;
+}
+
+#card{
+
+	border: 1px solid black;
+	
+	text-align: center;
+	display: block;
+	
+	margin: 15px;
+
+}
+
+#back{
+	display: none;
+}
+
